@@ -1,5 +1,5 @@
-NIM: 2111510109
-NAMA: Akbar Fadilah
+- NIM: 2111510109
+- NAMA: Akbar Fadilah
 
 ### Prerequisite
 1. Gunakan Gradle versi 5.6.4
