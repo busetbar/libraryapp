@@ -1,3 +1,6 @@
+NIM: 2111510109
+NAMA: Akbar Fadilah
+
 ### Prerequisite
 1. Gunakan Gradle versi 5.6.4
 2. Gunakan SpringCLI versi 2.1.3
